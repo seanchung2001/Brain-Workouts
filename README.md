@@ -1,3 +1,4 @@
+# **Author: Sean Chung**
 # **Brain-Workouts**
 Pump your brain with some fun puzzles!
 
